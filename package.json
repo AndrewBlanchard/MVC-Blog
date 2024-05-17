@@ -6,5 +6,15 @@
     "express-session": "^1.18.0",
     "handlebars": "^4.7.8",
     "sequelize": "^6.37.3"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "mvc-tech-blog",
+  "description": "## Your Task",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
 }
